@@ -1,0 +1,19 @@
+# Maven
+/target/
+**/target/
+
+# IDE
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+
+# SQLTools (VS Code extension)
+sqltools.getConnections
+.vscode/sqltools*
+.sqltools/
