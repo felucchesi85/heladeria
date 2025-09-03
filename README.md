@@ -1,4 +1,4 @@
-# 🍦 Sistema de Facturación para Heladería
+# Sistema de Facturación para Heladería
 
 Aplicación Spring Boot para gestión de productos, clientes y facturación con generación de PDF.
 
